@@ -1,0 +1,47 @@
+    html{
+    scroll-behavior: smooth;
+    }
+    .head{
+    font-family:'Lobster', cursive;
+    font-size: 40px;
+    position: fixed;
+    top:3%;
+    left:27%;
+    }
+    .logo{
+    height:5rem;
+    width:5rem;
+    border-radius:50%;
+    }
+    .items {
+    height:3rem;
+    width:5rem;
+    display:inline-block;
+    border-radius:50%;
+    font-family: 'Henny Penny', cursive;
+    }
+    .price{
+    font-size:20px;
+    font-weight:bold;
+    }
+    hr{
+    border: 2px solid black;
+    }
+    .social_links {
+    text-align:center;
+    letter-spacing:20px;
+    font-size:20px;
+    }
+    .order_food {
+    font-family: 'Bangers', cursive;
+    letter-spacing:3px;
+    }
+    .list{
+    font-family: 'Irish Grover', cursive;
+    
+    }
+    .menu {
+    font-family:'Lobster', cursive;
+    }
+    
+    
